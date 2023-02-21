@@ -62,7 +62,7 @@
           <option name="volume" value="true" />
           <option name="seekbar" value="true">
             <options>
-              <option name="readonly" value="false" />
+              <option name="readonly" value="true" />
               <option name="readonlyOnce" value="false" />
             </options>
           </option>
